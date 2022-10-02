@@ -1,4 +1,5 @@
 # math-fi
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$\sum_{n=1}^n n = {n \over 2} (n + 1) $$
+ 
+$$\sum_{n=1}^n n^2 = {n \over 6} (n + 1)(2n + 1) $$
