@@ -1,4 +1,4 @@
-# math-fi
+![header](https://github.com/foxphi/math-fi/blob/master/Beautiful-White-Aesthetic-Wallpaper.jpg)
 
 $$\sum_{n=1}^n n = {n \over 2} (n + 1) $$
  
